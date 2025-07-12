@@ -1,4 +1,4 @@
-from package_name.utils import data_cleaner
+from media_transform_prior_elicitation.utils import data_cleaner
 
 data = {"series": ["1", "2", "3", "4", "5"], "index": "1"}
 

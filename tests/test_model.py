@@ -1,4 +1,4 @@
-from package_name import my_model
+from media_transform_prior_elicitation import my_model
 
 data = {"series": [1, 2, 3, 4, 5], "index": 1}
 

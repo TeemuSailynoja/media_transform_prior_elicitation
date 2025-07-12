@@ -1,4 +1,4 @@
-"""Top-level module for package_name."""
+"""Top-level module for media_transform_prior_elicitation."""
 
 from beartype.claw import beartype_this_package
 
