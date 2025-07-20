@@ -8,7 +8,7 @@ Explore how the priors of the PyMC Marketing media transforms affect the resulti
 
 As I can't access Molab yet, clone the repo
 ```shell[
-git clone (https://github.com/TeemuSailynoja/media_transform_prior_elicitation.git
+git clone https://github.com/TeemuSailynoja/media_transform_prior_elicitation.git
 ```
 
 and run the notebook
