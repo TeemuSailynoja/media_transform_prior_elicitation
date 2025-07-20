@@ -1,0 +1,12 @@
+[workspace]
+authors = ["Teemu Säilynoja <teemu.sailynoja@gmail.com>"]
+channels = ["conda-forge"]
+name = "media_transform_prior_elicitation"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+marimo = ">=0.14.12,<0.15"
+pymc-marketing = ">=0.15.1,<0.16"
