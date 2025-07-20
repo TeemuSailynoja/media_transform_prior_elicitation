@@ -8,17 +8,11 @@ Explore how the priors of the PyMC Marketing media transforms affect the resulti
 
 As I can't access Molab yet, clone the repo
 ```shell[
-git clone https://github.com/TeemuSailynoja/media_transform_prior_elicitation.git
+git clone https://github.com/TeemuSailynoja/media_transform_prior_elicitation.git && cd media_transform_prior_elicitation
 ```
 
 and run the notebook
 
 ```shell
-uvx marimo run saturation_explorer.py
-```
-
-or
-
-```shell
-pixi run marimo run saturation_explorer.py
+pixi run marimo run saturation_explorer.py --sandbox
 ```
